@@ -30,7 +30,7 @@ I try and follow up-to-date "good" software practises, test-driven development a
 I'm very interested in tech (both software and hardware) and am always looking to tinker with existing products to make them better (no promises on that last part)
 
 🖥 \
-I enjoy building small, goofy projects (see wordle-ai and more) and look foward to imbibing fragments of anthromorphic qualities in the things I build. \
+I enjoy building small, goofy projects (see wordle-ai and more) and look foward to imbibing fragments of anthromorphic qualities in the things I build.
 
 🎮 \
 I recently fell down the PC rabbit-hole and am currently spending my free time grinding the Valorant and League ladders. \
