@@ -30,7 +30,3 @@ I'm very interested in tech (both software and hardware) and am always looking t
 
 🖥 \
 I enjoy building small, goofy projects (see wordle-ai and more) and look foward to imbibing fragments of anthromorphic qualities in the things I build.
-
-🎮 \
-I recently fell down the PC rabbit-hole and am currently spending my free time grinding the Valorant and League ladders. \
-Video games are one of the reasons I got into computer science and are, in my opinion, one of the best mixes of software development, problem-solving and creativity.
